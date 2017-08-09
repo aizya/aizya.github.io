@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "About"
-description: "学苟知本，六经皆我注脚 "
-header-img: "img/green.jpg"
+title: About
+description: '学苟知本，六经皆我注脚 '
+header-img: img/green.jpg
+published: true
 ---
 
 
 <center>
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+  	<p><img src=https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502264670767&di=2ed3b96f055eadd0bd62491ebd68c20c&imgtype=0&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201509%2F23%2F20150923140804_KrZjQ.thumb.224_0.gif" align="center"></p>
 </center>
 
 我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
@@ -67,9 +69,3 @@ header-img: "img/green.jpg"
 <center>
     <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
 </center>
-
-
-
-
-
-
