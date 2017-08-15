@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: '学苟知本，六经皆我注脚 '
+description: '除了帅,还拿什么来形容我 '
 header-img: img/green.jpg
 published: true
 ---
