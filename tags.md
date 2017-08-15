@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Tags"
-description: "行到水穷处,坐看云起时 "
-header-img: "img/zhihu.jpg"
+description: "真难改啊,大兄弟"
+header-img: "img/semantic.jpg"
 ---
 
 一些标签啊,小哥哥...
