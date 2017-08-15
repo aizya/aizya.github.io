@@ -1,18 +1,13 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
-header-img: "img/semantic.jpg"  
+description: "噢,到底应该有多少个标签呢"  
+header-img: "img/semantic.jpg"  
 ---
 
-##本页使用方法
+### 来应该是有很多不同的标签啊,分类啊
 
-1. 在下面选一个你喜欢的词
-2. 点击它
-3. 相关的文章会「唰」地一声跳到页面顶端
-4. 马上试试？
-
-##基因列表
+### 删了,为什么呢?因为这是我从别个那里fork的..哈哈哈
 
 
 <div id='tag_cloud'>
