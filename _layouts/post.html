@@ -39,6 +39,7 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
 
                 {{ content }}
+                {% include share-bar.html %}
 
                 <hr>
 
@@ -67,7 +68,7 @@ layout: default
                         }
                     }
                 </style>
-
+<!-- 
                 <div class="ds-share"
                     data-thread-key="{{page.id}}" data-title="{{page.title}}"
                     data-images="{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"
@@ -85,7 +86,7 @@ layout: default
                       </div>
                     </div>
                 <hr>
-                </div>
+                </div> -->
                 <!-- Duoshuo Share end-->
 
 
