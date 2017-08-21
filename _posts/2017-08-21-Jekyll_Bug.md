@@ -65,5 +65,10 @@ Jekyll未正常解析Post文档的原因有很多:
 
 #### 参考链接
 
-1. ![Jekyll中文社区](http://jekyllcn.com/docs/posts/)
-2. ![Jekyll Post未正常生成](https://stackoverflow.com/questions/30625044/jekyll-post-not-generated)
+1. <a href="http://jekyllcn.com/docs/posts/"> Jekyll中文社区</a>
+
+2. <a href="https://stackoverflow.com/questions/30625044/jekyll-post-not-generated"> Jekyll Post未正常生成原因</a>
+
+3. <a href="http://jekyllrb.com/docs/templates/#linking-to-posts"> Jekyll如何链接其他文档</a>
+
+4. <a href="https://www.digitalocean.com/community/tutorials/controlling-urls-and-links-in-jekyll">如何控制Jekyll的链接</a>
