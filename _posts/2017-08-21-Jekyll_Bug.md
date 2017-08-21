@@ -26,4 +26,4 @@ published: true
 
 所以我就看到了下面这种情况:
 
-![邮箱中出现的GitHub提示邮件]({{site.url}}/assets/Selection_229.png)
+![邮箱中出现的GitHub提示邮件]({{ site.url }}/assets/Selection_229.png)
