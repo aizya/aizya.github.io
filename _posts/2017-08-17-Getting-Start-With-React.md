@@ -1,3 +1,11 @@
+---
+layout: post
+title: React学习小记(一)
+date: 2017-08-17
+categories: React
+description: 简单的了解一下React
+---
+
 ### React学习小记
 
 React是个好东西,虚拟DOM让我们能够很快速的渲染出一个组件,并且尽可能的避免其他多余的开销.. 这些玩意都是从React的官网上看到的,具体性能怎么样,我一个前端小白哪里知道这么多..
