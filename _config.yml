@@ -44,6 +44,8 @@ defaults:
     values:
       layout: "post"
       author: "pressmore"
+      published: true
+      future: true
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Featured Tags
