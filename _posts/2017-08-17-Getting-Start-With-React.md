@@ -107,13 +107,3 @@ Tip: 本篇入坑笔记的所有组件创建的前提都是在CodePen这个网�
 1. 可以在大括号里面,添加任何JS的代码,包括函数调用,还可以用来嵌套组件.
 2. 尤其嵌套组件(调用)的使用,我试了很多方法,都不行.
 3. 可以在函数中使用JSX
-
-#### 使用JSX指定属性
-
-1. 方法一:
-
-        const element = <div className="zhangyue"> baobeiyoushengqile </div>
-
-2. 方法二:
-        
-        
