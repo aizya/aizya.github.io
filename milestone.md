@@ -10,6 +10,9 @@ header-img: "img/zhihu.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
+##### 2017-08-24
+
+**给自己定个小目标:一个礼拜看一本书,然后写一篇读后感..从现在开始~~**
 
 
 
