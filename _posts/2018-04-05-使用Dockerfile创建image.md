@@ -51,15 +51,15 @@ published: true
 
 我先是找到了这样的一个<a href="https://blog.csdn.net/sfdst/article/details/69336273">博客</a>，上面的思路就是未docker设置一个新的镜像。
 
-1. 先停止docker: systemctl stop  docker
+-  先停止docker: systemctl stop  docker
 
-2. 使用如下命令:
+-  使用如下命令:
 
-    echo "DOCKER_OPTS=\"\$DOCKER_OPTS --registry-mirror=http://f2d6cb40.m.daocloud.io\"" | sudo tee -a /etc/default/docker
+    echo "DOCKER_OPTS=\"\$DOCKER_OPTS --registry-mirror=http://f2d6cb40.m.daocloud.io\"" \| sudo tee -a /etc/default/docker
 
 tee命令的作用接收标准输入，然后写入到标准输出或者是文件中，格式一般是: tee [-OPTION]... [FILE]... ， 其中-a 表示append到末尾，不会覆盖。详情可参照man命令查看。
  
-3. 最后重启docker: service docker restart
+-  最后重启docker: service docker restart
 
 经过我刻苦的尝试，上面这种情况对我而言并不奏效，但是我觉得**这种做法是没有错的**，所以我也很无语。
 
