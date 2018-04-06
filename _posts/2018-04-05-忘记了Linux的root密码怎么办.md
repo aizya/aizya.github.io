@@ -3,6 +3,7 @@ layout: post
 title: Ubuntu的root密码忘记了怎么办
 date: 2018-04-05
 categories: Linux
+tags: Linux
 description: Linux的root密码忘记了怎么办
 published: true
 ---
