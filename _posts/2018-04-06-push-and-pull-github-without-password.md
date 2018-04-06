@@ -2,8 +2,8 @@
 layout: post
 title: git push免输入账号和密码方法
 date: 2018-04-06
-categories: Github,Linux
-tags: [Github, Linux]
+categories: Github
+tags: [Github]
 description: 免密码push/pull远程git代码
 published: true
 ---
