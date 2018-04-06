@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Tags"
-description: "真难改啊,大兄弟"
+description: "分类归档"
 header-img: "img/semantic.jpg"
 ---
-
-一些标签啊,小哥哥...
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
