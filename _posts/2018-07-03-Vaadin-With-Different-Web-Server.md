@@ -12,6 +12,8 @@ published: true
 
 ### Vaadin与Tomcat
 
+https://www.cnblogs.com/llguanli/p/7131253.html
+
 ### Vaadin与Wildfly
 
 ### 总结
