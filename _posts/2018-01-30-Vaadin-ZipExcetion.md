@@ -3,6 +3,7 @@ layout: post
 title: java.util.zip.ZipException:invalid LOC header (bad signature)
 date: 2018-01-30
 categories: Java
+tags: [Java]
 description: 记Vaadin的一个异常问题
 published: true
 ---

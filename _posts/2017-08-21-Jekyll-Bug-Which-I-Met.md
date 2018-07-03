@@ -3,6 +3,7 @@ layout: post
 title: Jekyll无法正确解析上传文档
 date: 2017-08-21
 categories: Jekyll
+tags: [Jekyll]
 description: 记录一个Jekyll无法正确显示提交文章的小陷阱
 published: true
 ---

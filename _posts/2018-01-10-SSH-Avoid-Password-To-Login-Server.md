@@ -2,8 +2,9 @@
 layout: post
 title: SSH免密登录服务器
 date: 2018-01-10
-categories: linux
-description: linux的一些使用
+categories: Linux
+tags: [Linux]
+description: Linux的一些使用
 published: true
 ---
 

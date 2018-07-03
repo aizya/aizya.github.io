@@ -3,6 +3,7 @@ layout: post
 title: 使用Dockerfile创建image
 date: 2018-04-05
 categories: Docker
+tags: [Docker]
 description: Dockerfile的使用
 published: true
 ---

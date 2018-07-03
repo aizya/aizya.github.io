@@ -3,6 +3,7 @@ layout: post
 title: 初学者而言,如何使用idea
 date: 2018-01-06
 categories: tools
+tags: [IDEA]
 description: 关于idea的一些基本的使用
 published: true
 ---

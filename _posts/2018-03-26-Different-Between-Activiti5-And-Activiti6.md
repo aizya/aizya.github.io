@@ -3,6 +3,7 @@ layout: post
 title: 关于Activiti版本6与版本5区别
 date: 2018-03-26
 categories: Activiti
+tags: [Activiti]
 description: Activiti的版本差异
 published: true
 ---

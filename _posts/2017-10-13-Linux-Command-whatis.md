@@ -3,6 +3,7 @@ layout: post
 title: 每天一个Linux命令-whatis
 date: 2017-10-13
 categories: Linux
+tags: [Linux]
 description: 每天一个Linux命令-whatis
 published: true
 ---

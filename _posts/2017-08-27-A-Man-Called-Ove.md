@@ -3,6 +3,7 @@ layout: post
 title: 一个叫欧维的男人决定去死
 date: 2017-08-27
 categories: 小说
+tags: [小说]
 description: 每周看一本小说，很有意思
 published: true
 ---

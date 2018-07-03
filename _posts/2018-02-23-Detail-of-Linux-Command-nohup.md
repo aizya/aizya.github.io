@@ -3,6 +3,7 @@ layout: post
 title: nohup命令详解
 date: 2018-02-23
 categories: Linux
+tags: [Linux]
 description: nohup命令详解
 published: true
 ---

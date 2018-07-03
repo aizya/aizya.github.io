@@ -3,6 +3,7 @@ layout: post
 title: 关于软链接以及硬链接的使用
 date: 2018-01-17
 categories: Linux
+tags: [Linux]
 description: 关于软链接以及硬链接的使用
 published: true
 ---

@@ -3,6 +3,7 @@ layout: post
 title: 浅析JS原生数据类型的方法
 date: 2017-08-23
 categories: JavaScript
+tags: [JavaScript]
 description: 简明扼要的理解JS中原生数据类型的方法
 published: true
 ---

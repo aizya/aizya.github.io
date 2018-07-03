@@ -3,6 +3,7 @@ layout: post
 title: 关于地址存储空间查询
 date: 2018-01-27
 categories: 计算机基础
+tags: [计算机基础]
 description: 关于地址存储空间查询
 published: true
 ---

@@ -3,6 +3,7 @@ layout: post
 title: 详解DuplicateServiceException
 date: 2017-10-17
 categories: Jboss
+tags: [Wildfly]
 description: org.jboss.msc.service.DuplicateServiceException
 published: true
 ---

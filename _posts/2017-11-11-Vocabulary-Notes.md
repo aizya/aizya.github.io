@@ -3,6 +3,7 @@ layout: post
 title: 生词啊啊炸毛炸毛
 date: 2019-11-11
 categories: Vocabulary
+tags: [Vocabulary]
 description: 生词
 published: true
 ---

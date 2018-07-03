@@ -3,6 +3,7 @@ layout: post
 title: 在VirtualBox上安装CentOS
 date: 2017-08-21
 categories: Linux
+tags: [Linux]
 description: 记录一下安装CentOS的过程.
 published: true
 ---

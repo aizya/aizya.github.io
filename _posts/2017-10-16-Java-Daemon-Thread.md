@@ -3,6 +3,7 @@ layout: post
 title: Java守护线程
 date: 2017-10-16
 categories: Java
+tags: [Java]
 description: Java守护线程
 published: true
 ---

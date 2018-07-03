@@ -3,7 +3,9 @@ layout: post
 title: Restful中@PathParam与@QueryParam之间的区别
 date: 2017-08-15
 categories: Restful
+tags: [Restful]
 description: 简单的了解一下Restful中@PathParam与@QueryParam的区别
+published: true
 ---
 
 ### What is the difference between @PathParam and @QueryParam?

@@ -2,7 +2,8 @@
 layout: post
 title: 一些有用的文章
 date: 2018-01-18
-categories: Java
+categories: Articles
+tags: [Articles]
 description: 一些有用的文章
 published: true
 ---

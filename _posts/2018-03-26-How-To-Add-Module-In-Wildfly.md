@@ -3,6 +3,7 @@ layout: post
 title: 记录Wildfly添加新模块
 date: 2018-03-26
 categories: PIKE
+tags: [PIKE]
 description: 记录Wildfly添加新模块
 published: true
 ---

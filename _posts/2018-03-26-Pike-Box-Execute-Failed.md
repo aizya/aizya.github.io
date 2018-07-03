@@ -3,6 +3,7 @@ layout: post
 title: 记录一个Pike Box的编译问题
 date: 2018-03-26
 categories: PIKE
+tags: [PIKE]
 description: Pike Box的编译问题
 published: true
 ---

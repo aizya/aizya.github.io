@@ -3,6 +3,7 @@ layout: post
 title: 浅析JS中的方法
 date: 2017-08-22
 categories: JavaScript
+tags: [JavaScript]
 description: 简明扼要的理解JS中的方法
 published: true
 ---

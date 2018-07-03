@@ -3,6 +3,7 @@ layout: post
 title: 初识Jekyll
 date: 2017-08-09
 categories: Jekyll
+tags: [Jekyll]
 description: 简单了解一下Jekyll
 published: true
 ---

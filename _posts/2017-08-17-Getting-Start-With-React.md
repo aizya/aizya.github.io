@@ -3,7 +3,9 @@ layout: post
 title: React学习小记(一)
 date: 2017-08-17
 categories: React
+tags: [React]
 description: 简单的了解一下React
+published: true
 ---
 
 ### React学习小记
