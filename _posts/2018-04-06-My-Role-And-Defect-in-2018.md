@@ -2,8 +2,8 @@
 layout: post
 title: 2018年的一些小目标以及个人缺陷
 date: 2018-04-06
-categories: 2018年个人目标
-tags: [文章]
+categories: 个人随笔
+tags: [个人随笔]
 description: 记录自己2018年的一些目标以及缺点
 published: true
 ---
