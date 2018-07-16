@@ -8,6 +8,8 @@ description: 生词
 published: true
 ---
 
+- relevant: 相关的
+- elastic: 灵活的
 - demonstration: 示范
 - signature: 签名 
 - single abstract method: SAM

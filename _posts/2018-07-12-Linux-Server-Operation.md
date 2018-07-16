@@ -10,7 +10,7 @@ published: true
 
 ### 获取Linux的基本信息
 
-使用命令: lsb_release
+使用命令: lsb_release -a
 
 ### 查看服务器的内存,CPU等等其他信息
 
