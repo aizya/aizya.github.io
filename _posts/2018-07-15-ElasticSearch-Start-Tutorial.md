@@ -43,3 +43,5 @@ published: true
 1. <a href="http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html">全文搜索引擎 Elasticsearch 入门教程</a>
 
 2. <a href="https://www.elastic.co/subscriptions">Elasticsearch收费情况</a>
+
+3. <a href="https://github.com/elastic/elasticsearch-definitive-guide">Elasticsearch官方教程</a>
