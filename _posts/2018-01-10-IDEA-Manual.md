@@ -43,3 +43,7 @@ IDEA的代码提示无效了,如何修改? 需要修改IDEA默认的快捷键,�
 问题: 在使用IDEA的时候,我发现如果我输入了test就无法导入junit的Test注解,一定要首字母在匹配(同样是大写的情况下),才能补全该注解.
 
 解决方式: <a href="http://blog.csdn.net/u012934325/article/details/70755539">IDEA更改大小写设置</a>
+
+#### IDEA的方法提示
+
+<a href="https://blog.csdn.net/nan_cheung/article/details/79487267">IDEA设置eclipse一样的方法自动显示参数提示</a>
