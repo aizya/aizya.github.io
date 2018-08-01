@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "一些粗鄙的归档文件罢了"
+description: "欢迎历史归档库"
 header-img: "img/orange.jpg"
 ---
 

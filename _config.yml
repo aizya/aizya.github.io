@@ -18,7 +18,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: pressmore
+github_username: aizya
 facebook_username: 
 weibo_username: 
 zhihu_username: 
@@ -46,7 +46,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "pressmore"
+      author: "aizya"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
