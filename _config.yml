@@ -46,7 +46,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "aizya"
+      author: "hongzhi xiong"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
