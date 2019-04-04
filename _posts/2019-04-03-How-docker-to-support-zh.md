@@ -32,6 +32,12 @@ Docker CentOS服务器不支持中文字符集, 所有的中文皆显示????乱�
     
 就好了.
 
+最后一步: 让中文生效, 需要更改配置文件 /etc/profile, 然后增加如下一句:
+
+    export LANG="zh_CN.utf8"
+
+然后: source /etc/profile即可.
+
 # 参考链接
 
 1. <a href="https://www.jianshu.com/p/d0c0140ce9e9">docker centos 容器不支持中文字符集</a>
