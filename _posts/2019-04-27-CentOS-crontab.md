@@ -35,16 +35,18 @@ published: true
 
 2. 编辑 /etc/crontab文件，然后更改，在编辑该文件时，有具体crontabs的使用方式
 
-    # For details see man 4 crontabs
+    <pre>
+        # For details see man 4 crontabs
 
-    # Example of job definition:
-    # .---------------- minute (0 - 59) 【*表示每分钟执行】 
-    # |  .------------- hour (0 - 23) 【*表示每小时执行】
-    # |  |  .---------- day of month (1 - 31) 【*表示每天执行】
-    # |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ... 【*表示每月执行】
-    # |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat 
-    # |  |  |  |  |
-    # *  *  *  *  * user-name  command to be executed 【表示待执行的脚本或者是命令】
+        # Example of job definition:
+        # .---------------- minute (0 - 59) 【*表示每分钟执行】 
+        # |  .------------- hour (0 - 23) 【*表示每小时执行】
+        # |  |  .---------- day of month (1 - 31) 【*表示每天执行】
+        # |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ... 【*表示每月执行】
+        # |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat 
+        # |  |  |  |  |
+        # *  *  *  *  * user-name  command to be executed 【表示待执行的脚本或者是命令】
+    </pre>
 
 那么，针对我而言，需要定时删除服务器上的/tmp文件目录，脚本放在/usr/local/bin/下：
 
@@ -54,6 +56,7 @@ published: true
 
 crontabs书写方式：
 
+    # 表示每天早上4：25 定时执行这个rmtemp脚本
     25 4 * * * /usr/local/bin/rmtemp
 
     # 25 4 * * * rm -rf /tmp/*
