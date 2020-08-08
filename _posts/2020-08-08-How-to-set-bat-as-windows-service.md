@@ -18,7 +18,7 @@ published: true
 
 然后就是傻瓜式操作, 选择我们需要注册的bat/exe文件, 点击Install Service即可.
 
-![avatar](../assets/nssm.png)
+![nssm](https://raw.githubusercontent.com/aizya/aizya.github.io/master/assets/nssm.png)
 
 最后打开Windows管理服务,就可以看到我们新添加的服务了. 如果需要设置自启动,那么可以在管理界面自行配置. 
 
